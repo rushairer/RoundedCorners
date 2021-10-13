@@ -15,3 +15,7 @@ struct RoundedCornersDemo_Previews: PreviewProvider {
 }
 
 ```
+
+### LICENSE
+
+[The MIT License (MIT)](./LICENSE)
