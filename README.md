@@ -1,5 +1,7 @@
 # RoundedCorners
 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/rushairer/RoundedCorners) ![GitHub](https://img.shields.io/github/license/rushairer/RoundedCorners) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/rushairer/RoundedCorners?include_prereleases) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/rushairer/RoundedCorners.svg)
+
 RoundedCorners for SwiftUI.
 
 
